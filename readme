@@ -1,0 +1,76 @@
+ README – Atma Vani (Round 2 Submission)
+
+## Team Information
+**Team Name:** Team Atma Vani – AI Spiritual Companion  
+**Team Members:**  
+- Rajesh Menon – Strategy, Technology & Business Modelling  
+- Reetu Bobel – Marketing & Communications, Operations  
+- Nishant Joshi – Scaling, Partnerships & Development  
+
+---
+
+## Public Code Repository Link
+GitHub Repo: https://github.com/Atma-Vani/mahakumbh
+
+## Prototype Summary
+**Atma Vani** is an **AI-driven multilingual, voice-first spiritual companion** designed for pilgrims and tourists attending the Ujjain MahaKumbh.  
+It transforms a potentially overwhelming experience into a **seamless, safe, and spiritually enriching journey**.
+
+---
+
+## Prototype APK
+A working alpha APK (text-based version of Atma Vani) is available here:
+https://drive.google.com/file/d/1B61kHx2sb4VK78S1yuo2dvQq3VTwL2bI/view?usp=sharing 
+
+## Web Version
+A working alpha version of the proposed solution is available to see at www.atmavani.life
+
+## Problem Being Addressed
+- Over 200M devotees attend the MahaKumbh in Ujjain — navigating the event is chaotic and confusing.  
+- Pilgrims struggle with crowd density, safety alerts, rituals, and cultural knowledge.  
+- Foreign tourists face language and cultural barriers.  
+- No unified, trusted solution exists today.
+
+---
+
+## Key Features & Functionalities
+1. **Before the Mela (Planning):**  
+   - Personalized itinerary builder (based on interests like Shaivism, Yoga, Vaishnavism).  
+   - History & significance of Kumbh Mela.  
+   - Mantra pronunciation guide.  
+   - Logistics & preparation Q&A (travel, accommodation, essentials).  
+
+2. **During the Mela (On-Ground):**  
+   - Voice-assisted navigation to ghats/camps.  
+   - Real-time crowd density & event updates (via Govt APIs).  
+   - Live ritual guidance with **AI Pujari**.  
+   - First-aid & emergency support.  
+   - Spiritual Q&A for processions, rituals, and symbolism.  
+
+3. **After the Mela (Post-Event):**  
+   - Journaling & memory saving.  
+   - Personalized recommendations for continued learning.  
+   - Secure connections with fellow devotees.  
+
+---
+
+## Technology Overview
+- **Core AI:** GPT-based Large Language Model (LLM).  
+- **Speech Layer:**  
+  - Speech-to-Text (STT) for multilingual input.  
+  - Text-to-Speech (TTS) for natural voice responses.  
+- **Govt. Data Integration:** APIs for crowd, safety, and traffic updates.  
+- **Platform:** Mobile App (Android/iOS) + planned WhatsApp integration.  
+- **Cloud Infra:** Secure, scalable, low-latency hosting.  
+
+---
+
+## Overview of Prototype / Idea
+- Atma Vani is not just a tool but a **spiritual companion**.  
+- It serves **devotees, foreign tourists, and Govt authorities**, ensuring safety and enriching the spiritual experience.  
+- The model is scalable to other **Melas, yatras, and temple festivals** across India.  
+
+---
+
+## Instructions to Run / View
+1. Clone the repository or download as ZIP.  
